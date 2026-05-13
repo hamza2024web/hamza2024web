@@ -61,16 +61,6 @@ I’m a software engineer passionate about **backend architecture**, **microserv
 - **Tech:** Quarkus, Kafka, Docker
 - **Highlight:** Built a fully distributed system with event-driven communication for high throughput.
 
-### 💼 **[CareerLink Platform](https://github.com/hamza2024web)**
-> *Dynamic Job Search Platform*
-- **Tech:** PHP (OOP), MVC Pattern, AJAX
-- **Highlight:** Implemented asynchronous search and a comprehensive admin dashboard.
-
-### 🛒 **[Shop-Zone](https://github.com/hamza2024web)**
-> *Full Stack E-Commerce Solution*
-- **Tech:** Java, Spring Security, Angular
-- **Highlight:** Secure payment integration and intuitive product management.
-
 ---
 
 ## 💼 Experience
